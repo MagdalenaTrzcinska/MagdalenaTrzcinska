@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/MagdalenaTrzcinska/MagdalenaTrzcinska/master/beautiful.png "Header")
 
 ### Hi there 👋 I'm Magda.
-I started my IT studies with Java. For 3 years I was doing basic projects in this language. However, the back-end was not satisfactory enough for me. With a bit of free time, I found front-end technologies. Colours, shapes, gradients in web design are what I would like to do in life.
+I started my IT studies with Java. For 3 years I did basic projects in this language. However, the back-end was not satisfactory enough for me. With a bit of free time, I found front-end technologies. Colours, shapes, gradients in web design are what I would like to do in my life.
 
 ## My development toolbelt:
 
