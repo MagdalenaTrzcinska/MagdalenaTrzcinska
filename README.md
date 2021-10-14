@@ -6,7 +6,7 @@
 
 ## Currently learning:
 <br>
-<img alt="mysql" title="mysql" src=https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" height="24"><img alt="powerBI" title="powerBI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="mysql" title="mysql" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" height="24"><img alt="powerBI" title="powerBI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
